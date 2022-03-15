@@ -4,6 +4,7 @@
 using namespace std;
 
 int main(){
+    cout << "hello" << endl;
     vector<int> vec;
     for(int i=0; i<10; i++){
         vec.push_back(i);
