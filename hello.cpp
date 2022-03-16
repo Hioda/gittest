@@ -5,6 +5,7 @@ using namespace std;
 
 int main(){
     cout << "hello world" << endl;
+    cout << "Add mobile feature." <<  endl;
     vector<int> vec;
     for(int i=0; i<10; i++){
         vec.push_back(i);
